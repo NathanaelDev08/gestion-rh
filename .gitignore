@@ -1,0 +1,15 @@
+# Dépendances et artefacts de compilation
+src-tauri/target/
+node_modules/
+dist/
+*.log
+
+# Sauvegardes de base
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+
+# Système
+Thumbs.db
+.DS_Store
